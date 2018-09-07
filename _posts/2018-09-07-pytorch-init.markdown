@@ -5,7 +5,7 @@ tags:
     - Pytorch
 ---
 
-**官方初始化文档：https://pytorch.org/docs/stable/nn.html?highlight=torch%20nn%20functional#torch-nn-init**
+**[PyTorch官网初始化文档](https://pytorch.org/docs/stable/nn.html?highlight=torch%20nn%20functional#torch-nn-init)**
 
 本人目前刚从caffe转pytorch，由于pytorch灵活的特性和其他框架所没有的动态图特性，最近要出1.0版本与Caffe2结合，使学术与落地工程无缝对接。
 
