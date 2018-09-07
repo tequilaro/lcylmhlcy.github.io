@@ -6,14 +6,14 @@ tags:
     - Pytorch
 ---
 
-**<font color=red>单GPU：</font>**
+**单GPU：**
 
 ```
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 ```
 
-**<font color=red>多GPU：</font>**
+**多GPU：**
 
 ```
 device_ids = [0,1,2,3]
