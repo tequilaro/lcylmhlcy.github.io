@@ -56,8 +56,8 @@ netease_comment: false
 
 
 # Analytics settings
-# Baidu Analytics 
-# ba_track_id: [your track id]
+Baidu Analytics 
+ba_track_id: b99c776868
 
 # Google Analytics
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
@@ -67,7 +67,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "计算机技术2017届研究生<br>信息科学与工程学院<br>中国石油大学（北京）"
+sidebar-about-description: "计算机技术 2017届研究生<br>信息科学与工程学院<br>中国石油大学（北京）"
 sidebar-avatar: /img/mypic1.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
