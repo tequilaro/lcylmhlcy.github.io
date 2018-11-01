@@ -14,7 +14,7 @@ Github中的代码主要以**PyTorch**为主。
 
 ## 竞赛：  
 1. 参加PRCV2018中的中科院自动化举办的[大规模行人检索竞赛](http://prcv.qyhw.net.cn/pages/20)。取得Reid任务中第9名。  
-![reid_rank](https://github.com/lcylmhlcy/lcylmhlcy.github.io/raw/master/img/reid_rank.png)
+![reid_rank](https://github.com/lcylmhlcy/lcylmhlcy.github.io/raw/master/img/reid_bisai.jpg)
 
 ## Contact
 QQ : 623610394  
