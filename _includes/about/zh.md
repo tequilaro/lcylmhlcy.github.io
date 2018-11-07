@@ -15,13 +15,13 @@
   成绩排名：前10%               
   荣誉奖励：荣获校级一等奖学金  
 
-2. 2013.09 -- 2017.06   本科  
+2. 2013.09 -- 2017.06   大学本科  
   西北农林科技大学（985、211）  计算机科学与技术  
   主修课程：数据结构、算法设计、离散数学、信号与系统等  
 
-
 ## 学术：
 1. Crowd Density Estimation Based on Classification Activation Map and Patch Density Level [在投]
+2. Intelligent Logging Lithological Interpretation with Convolution Neural Network （sci四区，第四作者）
 
 ## 项目：
 1. 目前正在参与人工智能实验室网站搭建。
@@ -29,6 +29,12 @@
 ## 竞赛：  
 1. 参加PRCV2018中的中科院自动化举办的[大规模行人检索竞赛](http://prcv.qyhw.net.cn/pages/20)。取得Reid任务中第9名。  
 ![reid_rank](https://github.com/lcylmhlcy/lcylmhlcy.github.io/raw/master/img/reid_bisai.jpg)
+
+## 专业技能：
+1. 熟悉python编程和基本的数据处理库。
+2. 了解多种深度学习框架的使用。曾经使用Caffe，Keras进行科研，目前使用Facebook的PyTorch框架。
+3. 了解深度学习的基础知识，并有所需的基本数学知识功底。
+4. 通用技能证书：英语四级证书（538）、英语六级证书（437）、雅思6.0、普通话二级丙等证书、机动车驾驶证
 
 ## Contact
 QQ : 623610394  
