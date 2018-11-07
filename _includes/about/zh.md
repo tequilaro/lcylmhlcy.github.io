@@ -1,6 +1,7 @@
-> 时光静好，  
-> 你在，我在，  
-> 岁月在，便是安暖。
+> 既然努不努力
+> 都是一辈子，
+> 为什么不豁出去拼一拼
+> 让自己活在高处！
 
 **Hey，我是李承阳，目前就读于中国石油大学（北京），计算机技术研究生。**  
   
@@ -9,8 +10,10 @@
 Github中的代码主要以**PyTorch**为主。  
 
 ## 学术：
+1. Crowd Density Estimation Based on Classification Activation Map and Patch Density Level [在投]
 
 ## 项目：
+1. 目前正在参与人工智能实验室网站搭建。
 
 ## 竞赛：  
 1. 参加PRCV2018中的中科院自动化举办的[大规模行人检索竞赛](http://prcv.qyhw.net.cn/pages/20)。取得Reid任务中第9名。  
