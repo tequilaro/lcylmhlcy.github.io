@@ -35,7 +35,7 @@
 1. 熟悉python编程和基本的数据处理库。
 2. 了解多种深度学习框架的使用。曾经使用Caffe，Keras进行科研，目前使用Facebook的PyTorch框架。
 3. 了解深度学习的基础知识，并有所需的基本数学知识功底。
-4. 通用技能证书：英语四级证书（538）、英语六级证书（437）、雅思6.0、普通话二级丙等证书、机动车驾驶证
+4. 通用技能证书：英语四级证书（538）、英语六级证书（471）、雅思6.0
 
 ## Contact
 QQ : 623610394  
@@ -43,3 +43,4 @@ Email: lcylmhlcy@163.com
 [博客](https://lcylmhlcy.github.io) 
 [Github](http://github.com/lcylmhlcy) 
 [CSDN](https://blog.csdn.net/qq_19598705)
+[LinkedIn](https://www.linkedin.com/in/%E6%89%BF%E9%98%B3-%E6%9D%8E-4717b8165/)
